@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theduckypedia
-- 👀 I’m interested in learning new thigns.
+- 👀 I’m interested in learning new skills.
 - 🌱 I’m currently learning Python, Django and JavaScript.
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 How to reach me: email, twitter or discord.
